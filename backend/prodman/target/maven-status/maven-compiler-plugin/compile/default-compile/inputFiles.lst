@@ -1,2 +1,15 @@
+/home/staticzoop/projects/ProdManagerWeb/backend/prodman/src/main/java/com/prod/view/SQLEntities/Adjacencies.java
+/home/staticzoop/projects/ProdManagerWeb/backend/prodman/src/main/java/com/prod/view/SQLEntities/SubsectionIssues.java
+/home/staticzoop/projects/ProdManagerWeb/backend/prodman/src/main/java/com/prod/view/SQLEntities/Compositions.java
 /home/staticzoop/projects/ProdManagerWeb/backend/prodman/src/main/java/com/prod/Main.java
-/home/staticzoop/projects/ProdManagerWeb/backend/prodman/src/main/java/com/prod/controller/EndpointController.java
+/home/staticzoop/projects/ProdManagerWeb/backend/prodman/src/main/java/com/prod/model/SQLRepos/ProjectRepo.java
+/home/staticzoop/projects/ProdManagerWeb/backend/prodman/src/main/java/com/prod/view/SQLEntities/SubsectionWorkers.java
+/home/staticzoop/projects/ProdManagerWeb/backend/prodman/src/main/java/com/prod/model/SQLRepos/AdjacencyRepo.java
+/home/staticzoop/projects/ProdManagerWeb/backend/prodman/src/main/java/com/prod/view/SQLEntities/Projects.java
+/home/staticzoop/projects/ProdManagerWeb/backend/prodman/src/main/java/com/prod/view/SQLEntities/Users.java
+/home/staticzoop/projects/ProdManagerWeb/backend/prodman/src/main/java/com/prod/view/SQLEntities/Subsections.java
+/home/staticzoop/projects/ProdManagerWeb/backend/prodman/src/main/java/com/prod/view/SQLEntities/UserProjects.java
+/home/staticzoop/projects/ProdManagerWeb/backend/prodman/src/main/java/com/prod/model/SQLRepos/CompositionRepo.java
+/home/staticzoop/projects/ProdManagerWeb/backend/prodman/src/main/java/com/prod/model/SQLRepos/IssuesRepo.java
+/home/staticzoop/projects/ProdManagerWeb/backend/prodman/src/main/java/com/prod/controller/api/EndpointController.java
+/home/staticzoop/projects/ProdManagerWeb/backend/prodman/src/main/java/com/prod/model/SQLRepos/SubsectionRepo.java
